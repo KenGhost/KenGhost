@@ -6,8 +6,8 @@ const about = {
   	position: "student 👨‍🎓",
   	techStack: {
  		frontend: "react",
-    		backend: "express",
-    		database: ["mysql", "mongodb"],
+    	backend: "express",
+    	database: ["mysql", "mongodb"],
   	},
   	currentAdventure: "learning about webSockets and webRTC",
   	interests: ["understanding & improving things", "tech", "music", "sports"],
