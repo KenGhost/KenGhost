@@ -3,14 +3,16 @@ console.log("Hello World 👋");
 
 const about = {
 	name: "Mehul",
-	position: "student 👨‍🎓",
+	position: "graduate 👨‍🎓",
 	techStack: {
-		frontend: ["react", "nextjs", "tailwind"],
-		backend: "express",
+		languages: ["typescript"],
+		frontend: ["nextjs", "tailwind"],
+		backend: ["express"],
 		database: ["mysql", "postgresql", "mongodb"],
+		other: ["webSockets", "docker"]
   	},
-	currentAdventure: "learning about webSockets and webRTC",
-	interests: ["understanding & improving things", "tech", "music" :headphones:, "sports"],
+	currentAdventure: "learning about k8s and aws",
+	interests: ["tech", "cars", "understanding & improving things"],
 	whileAFK: "you will find me playing 🏃, cooking 🍳 or tinkering with tech 🤖",
 };
 
