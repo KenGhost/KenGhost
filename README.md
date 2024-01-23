@@ -11,7 +11,7 @@ const about = {
 		database: ["mysql", "postgresql"],
 		other: ["webSockets", "docker"]
   	},
-	currentAdventure: "learning about vim",
+	currentAdventure: "learning vim",
 	interests: ["tech", "cars", "understanding & improving things"],
 	whileAFK: "you will find me playing 🏃, cooking 🍳 or tinkering with tech 🤖",
 };
